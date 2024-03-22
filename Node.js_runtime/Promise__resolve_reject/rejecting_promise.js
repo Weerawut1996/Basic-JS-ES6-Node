@@ -1,7 +1,7 @@
 // your must install "node.js" in your PC
 // run command  --> node rejecting_promise.js
 // or run       --> node Promise__resolve_reject/rejecting_promise.js
-// or run       --> node Node.js runtime/Promise__resolve_reject/rejecting_promise.js
+// or run       --> node Node.js_runtime/Promise__resolve_reject/rejecting_promise.js
 
 function evenPromise(number) {
    return new Promise((resolve, reject) => {
