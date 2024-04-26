@@ -1,0 +1,2 @@
+Number-EX1.js
+ - Number mod (10 % 10) = ??
