@@ -1,0 +1,6 @@
+String-EX1.js
+   - String.prototype.indexOf()     | Output 'number'      | String ที่ input เริ่มที่ index ที่เท่าไร        
+   - String.prototype.startsWith()  | Output 'true false'  | String ที่ input เริ่มที่ index ?? จริงหรือไหม  
+   - String.prototype.endWith()     | Output 'true false'  | คำที่ประกาศไว้ จบ ด้วย String ที่ input หรือไหม
+   - String.prototype.slice()       | Output 'String'      | ดึง 'คำ' มาเป็นแบบ เจาะจง index
+   - String.prototype.substring()   |                      |
