@@ -1,3 +1,5 @@
+// run -> node Loop_runtime/setInterval_ex3.js
+
 const intervalID = setInterval(myCallback, 1000, 'Parameters value in line 1', 1125);
 let num = 5;
 
